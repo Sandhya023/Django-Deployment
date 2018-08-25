@@ -15,7 +15,7 @@ To install pip on your machine, go to https://pip.pypa.io/en/latest/installing/,
 ```
 pip install virtualenvwrapper-win
 ```
-## Then create a virtual environment for your project:
+## Then create a virtual environment for your project
 ```
 mkvirtualenv myproject
 ```
