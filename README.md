@@ -19,7 +19,7 @@ pip install virtualenvwrapper-win
 ```
 mkvirtualenv myproject
 ```
-## The virtual environment will be activated automatically and you’ll see “(myproject)” next to the command prompt to designate that. If you start a new command prompt, you’ll need to activate the environment again using:
+The virtual environment will be activated automatically and you’ll see “(myproject)” next to the command prompt to designate that. If you start a new command prompt, you’ll need to activate the environment again using:
 
 ```
 workon myproject
